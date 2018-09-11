@@ -14,3 +14,5 @@ The project is styled with bootstrap.
 The JSON was parsed using JS.
 
 The project can be found online at tolu.xyz/helloWorld
+
+Uses: javascript · html/css/boostrap · ajax · json · flickr api · unsplash api
